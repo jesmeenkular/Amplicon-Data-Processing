@@ -29,10 +29,12 @@ Quick start
 
 Step-by-step workflow with code
 1. Load packages
+```{r}
 library(dada2)
 library(phyloseq)
 library(ggplot2)
 library(tidyverse)
+```
 
 2. Set paths and list files
 ```{r}
